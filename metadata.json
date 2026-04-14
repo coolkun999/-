@@ -1,0 +1,6 @@
+{
+  "name": "FloraID",
+  "description": "AI-powered plant identification and care guide. Discover the world of plants with a single photo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
